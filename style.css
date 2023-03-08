@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(117, 126, 134);
+}
+.container , .row , .h2{
+    text-align: center;
+}
+h3{
+    margin-bottom: 10px;
+}
+.login-container{
+    margin-top: 10%;
+    margin-bottom: 5%;
+    box-sizing: border-box;
+    box-shadow: 2px 5px 10px rgb(228, 228, 220);
+}
+.login{
+    background-color: aliceblue;
+    height: auto;
+    padding-top: 25px;
+}
+.login2{
+    background-color: rgb(116, 86, 144);
+    height: auto;
+    padding-top: 25px;
+}
+#heao{
+    background-color: rgb(158, 201, 201) !important; 
+}
